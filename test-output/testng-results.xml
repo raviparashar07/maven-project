@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="12826" started-at="2019-09-24T07:14:18Z" finished-at="2019-09-24T07:14:31Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="12826" started-at="2019-09-24T07:14:18Z" finished-at="2019-09-24T07:14:31Z">
+      <class name="webdriver.Login">
+        <test-method status="PASS" signature="t()[pri:0, instance:webdriver.Login@482f8f11]" name="t" duration-ms="12779" started-at="2019-09-24T07:14:18Z" finished-at="2019-09-24T07:14:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t -->
+      </class> <!-- webdriver.Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
